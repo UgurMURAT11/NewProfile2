@@ -11,8 +11,7 @@
             - 👨‍💻 I am a hardworking Software Test Automation Engineer in Test from Turkey.<br/>
 				- - 👨‍💻 I am an Automation Tester with experience in SDLC, STLC, and Debugging Lifecycle in an Agile environment and experienced in Scrum Approach. I do manual and automation tests of applications. In my tests, I use Java as the programming language and Selenium WebDriver, TestNG, Cucumber and Postman as test tools. The functional tests I do are UI Testing, DB Testing, API Testing, Smoke Testing and Regression Testing. I am positive and solution-oriented, prone to teamwork, keen on new technologies, open to learning, and highly skilled in document analysis..
 - 💼 I’m currently working on Techno Study Company as QA and teach support.
-- 🌱 I’m currently learning **Python C++**
-📫 How to reach me *candrhydr@hotmail.com -  skills . <br/></h1><br/>
+📫 How to reach me *ugurmuratxx11@gmail.com -  skills . <br/></h1><br/>
 				
 <div>
 <a href="https://www.linkedin.com/in/ugur-murat-872623239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
